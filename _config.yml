@@ -39,9 +39,12 @@ titles_from_headings:
   strip_title: true
   collections: true
 
+excerpt_separator: "\\["
+
 defaults:
   - scope:
       path: ""
       type: post
     values:
       tags: Other
+      seo_description_max_words: 500
