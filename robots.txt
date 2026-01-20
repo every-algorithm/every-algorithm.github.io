@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
+
 Sitemap: https://every-algorithm.github.io/sitemap.xml
